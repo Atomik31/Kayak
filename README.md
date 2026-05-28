@@ -1,3 +1,5 @@
+![Kayak](kayak_logo.png)
+
 # Kayak — Plan your trip
 
 Projet réalisé dans le cadre du bloc 1 de la certification CDSD (Jedha).
