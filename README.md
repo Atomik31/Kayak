@@ -60,13 +60,16 @@ Le beauty score est la moyenne des trois, entre 0 et 100.
 ```
 Kayak/
 ├── data/
-│   ├── processed/
-│   │   ├── villes_meteo.csv
-│   │   └── df_top3_hotels.csv
+│   ├── raw/
+│   └── processed/
+│       ├── villes_meteo.csv
+│       ├── df_beauty_score.csv
+│       └── df_top3_hotels.csv
 ├── docs/
-│   └── consignes.md
+│   └── 01-Plan_your_trip_with_Kayak.ipynb   # Énoncé du projet
 ├── notebooks/
-│   └── 01-Plan_your_trip_with_Kayak.ipynb
+│   ├── Projet_Kayak.ipynb                    # Notebook original
+│   └── draft.ipynb                           # Version en cours de refactoring (ETL Neon DB)
 ├── .env               # clés API (non versionné)
 ├── requirements.txt
 └── README.md
