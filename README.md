@@ -1,6 +1,6 @@
 ![Kayak](kayak_logo.png)
 
-# Kayak — Plan your trip
+# Kayak - Plan your trip
 
 Projet réalisé dans le cadre du bloc 1 de la certification CDSD (Jedha).
 
@@ -47,7 +47,7 @@ Le beauty score est la moyenne des trois, entre 0 et 100.
 
 ## Stack
 
-- Python — Pandas, Requests, Selenium, Parsel
+- Python - Pandas, Requests, Selenium, Parsel
 - OpenWeatherMap API 3.0 / Nominatim
 - AWS S3
 - Neon DB (PostgreSQL) + psycopg2
